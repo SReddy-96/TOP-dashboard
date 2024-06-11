@@ -5,9 +5,7 @@
 ## model 
 
 ### index
-| Desktop              | Mobile         |
-| ------------------------ | ---------------------- |
-| ![Desktop](images/TOP-sign-up-form.png) | ![Mobile](images/TOP-sign-up-form-mobile.png)
+![Dashboard screenshot](images/TOP-dashboard.png)
 
 ## Problems encountered
 
